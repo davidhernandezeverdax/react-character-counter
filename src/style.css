@@ -1,0 +1,10 @@
+.character-counter-textarea {
+  border: 1px solid #ccc;
+  color: #333;
+  padding: 8px;
+  width: 100%;
+}
+
+.character-counter-info {
+  margin-top: 8px;
+}
